@@ -6,7 +6,6 @@ class CalcApp extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      // TODO
       display: '0',
       number_1: '',
       number_2: '',
